@@ -72,7 +72,7 @@ This project focuses on the deployment and management of Active Directory (AD) i
 <img width="393" alt="image" src="https://github.com/user-attachments/assets/7531ab67-0c8f-4eed-982d-03f271ccd67b" />
 
 
-**9. Testing and Validation: Successfully validated domain connectivity and login functionality for client machines using the newly created user accounts.**
+**9. Successfully validated domain connectivity and login functionality for client machines using the newly created user accounts.**
 
 
 <img width="299" alt="image" src="https://github.com/user-attachments/assets/a141f1c0-53cb-4f85-bcd8-4b4bda6414d1" />
